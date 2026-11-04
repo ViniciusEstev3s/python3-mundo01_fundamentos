@@ -78,8 +78,8 @@ O **Mundo 1** compreende a fase introdutória e de fundamentação lógica na li
 
 ### 1. Clonar o repositório
 ```bash
-git clone [https://github.com/seu-usuario/python3-mundo1.git](https://github.com/seu-usuario/python3-mundo1.git)
-cd python3-mundo1
+git clone https://github.com/ViniciusEstev3s/python3-mundo01_fundamentos
+cd cd python3-mundo01_fundamentos
 ```
 ### 👨‍💻 Autor
 Desenvolvido por **Vinícius Esteves**.
