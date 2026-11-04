@@ -82,4 +82,4 @@ git clone [https://github.com/seu-usuario/python3-mundo1.git](https://github.com
 cd python3-mundo1
 ```
 ### 👨‍💻 Autor
-Desenvolvido por **Vinícius Esteves** em **01/2024**.
+Desenvolvido por **Vinícius Esteves**.
